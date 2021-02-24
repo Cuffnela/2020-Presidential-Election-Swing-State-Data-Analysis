@@ -1,4 +1,4 @@
-<img src="https://github.prod.oc.2u.com/UCB-INFO-PYTHON/Project2_Cuffney_Miller_Simmeth/blob/master/Analysis/extra/img/political_logos.jpg" width="150" height="100" align="right">
+<img src="https://github.com/Cuffnela/2020-Presidential-Election-Swing-State-Data-Analysis/blob/master/Analysis/extra/img/political_logos.jpg" width="150" height="100" align="right">
 
 <br />
 <br />
